@@ -1,0 +1,43 @@
+﻿@page
+@model CRUDOPERATION.Pages.Test.CreateModel
+@{
+    ViewData["Title"] = "Create";
+}
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label>Name</label>
+        <input type="text" asp-for="registration.Name" />
+        <span asp-validation-for="registration.Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(model => model.registration.Email)
+        <input type="text" asp-for="registration.Email" />
+        <span asp-validation-for="registration.Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(model => model.registration.BirthDate)
+        <input type="date" asp-for="registration.BirthDate" />
+        <span asp-validation-for="registration.BirthDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(model => model.registration.MobileNo)
+        <input type="number" asp-for="registration.MobileNo" />
+        <span asp-validation-for="registration.MobileNo" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(model => model.registration.Password)
+        <input type="password" asp-for="registration.Password" />
+        <span asp-validation-for="registration.Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        @Html.DisplayNameFor(model => model.registration.ConfirMPassword)
+        <input type="password" asp-for="registration.ConfirMPassword" />
+        <span asp-validation-for="registration.ConfirMPassword" class="text-danger"></span>
+    </div>
+    <div>
+        <input type="submit" value="Registration" style="border:1px solid black"/>
+    </div>
+
+
+</form>

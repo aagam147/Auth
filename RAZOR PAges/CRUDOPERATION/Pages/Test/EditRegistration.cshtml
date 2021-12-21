@@ -1,0 +1,103 @@
+﻿@page
+    @model CRUDOPERATION.Pages.Test.EditRegistrationModel
+    @{
+    }
+    <form method="post" >
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="Registration.Id" />
+        <div class="form-group">
+            <label>Name</label>
+            <input type="text" asp-for="Registration.Name" />
+            <span asp-validation-for="Registration.Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            @Html.DisplayNameFor(model => model.Registration.Email)
+            <input type="text" asp-for="Registration.Email" />
+            <span asp-validation-for="Registration.Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            @Html.DisplayNameFor(model => model.Registration.BirthDate)
+            <input type="date" asp-for="Registration.BirthDate" />
+            <span asp-validation-for="Registration.BirthDate" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            @Html.DisplayNameFor(model => model.Registration.MobileNo)
+            <input type="number" asp-for="Registration.MobileNo" />
+            <span asp-validation-for="Registration.MobileNo" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            @Html.DisplayNameFor(model => model.Registration.Password)
+            <input type="password" asp-for="Registration.Password" />
+            <span asp-validation-for="Registration.Password" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            @Html.DisplayNameFor(model => model.Registration.ConfirMPassword)
+            <input type="password" asp-for="Registration.ConfirMPassword" />
+            <span asp-validation-for="Registration.ConfirMPassword" class="text-danger"></span>
+        </div>
+        <div>
+            <input type="submit" value="Registration" style="border:1px solid black" />
+        </div>
+
+
+    </form>
+@*@page
+@model CRUDOPERATION.Pages.Test.EditRegistrationModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Registration</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Registration.Id" />
+            <div class="form-group">
+                <label asp-for="Registration.Name" class="control-label"></label>
+                <input asp-for="Registration.Name" class="form-control" />
+                <span asp-validation-for="Registration.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Registration.Email" class="control-label"></label>
+                <input asp-for="Registration.Email" class="form-control" />
+                <span asp-validation-for="Registration.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Registration.BirthDate" class="control-label"></label>
+                <input asp-for="Registration.BirthDate" class="form-control" />
+                <span asp-validation-for="Registration.BirthDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Registration.MobileNo" class="control-label"></label>
+                <input asp-for="Registration.MobileNo" class="form-control" />
+                <span asp-validation-for="Registration.MobileNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Registration.Password" class="control-label"></label>
+                <input asp-for="Registration.Password" class="form-control" />
+                <span asp-validation-for="Registration.Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Registration.ConfirMPassword" class="control-label"></label>
+                <input asp-for="Registration.ConfirMPassword" class="form-control" />
+                <span asp-validation-for="Registration.ConfirMPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}*@

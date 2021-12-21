@@ -1,0 +1,31 @@
+﻿@page
+@model CRUDOPERATION.Pages.Test.DetailModel
+@{
+}
+<dl class="row">
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.Registration.Name)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.Registration.Name)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.Registration.MobileNo)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.Registration.MobileNo)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.Registration.BirthDate)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.Registration.BirthDate)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.Registration.Email)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.Registration.Email)
+    </dd>
+
+</dl>
