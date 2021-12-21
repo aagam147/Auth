@@ -1,0 +1,119 @@
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\appsettings.Development.json
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\appsettings.json
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.exe
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.deps.json
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.runtimeconfig.json
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.runtimeconfig.dev.json
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.dll
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\ref\RegistrationAndLogin.dll
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.pdb
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.Views.dll
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.Views.pdb
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\Humanizer.dll
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\Npgsql.dll
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Practice\RegistrationAndLogin\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.AssemblyInfoInputs.cache
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.AssemblyInfo.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.csproj.CoreCompileInputs.cache
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.RazorAssemblyInfo.cache
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.RazorAssemblyInfo.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\staticwebassets\RegistrationAndLogin.StaticWebAssets.Manifest.cache
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\staticwebassets\RegistrationAndLogin.StaticWebAssets.xml
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\scopedcss\bundle\RegistrationAndLogin.styles.css
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.TagHelpers.input.cache
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.TagHelpers.output.cache
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.RazorCoreGenerate.cache
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\Delete.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\Details.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\EditRegistration.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\Login.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\Registration.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.RazorTargetAssemblyInfo.cache
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.RazorTargetAssemblyInfo.cs
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.Views.pdb
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.csproj.CopyComplete
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.dll
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\ref\RegistrationAndLogin.dll
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.pdb
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.genruntimeconfig.cache
+D:\Practice\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.csproj.AssemblyReference.cache
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\appsettings.Development.json
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\appsettings.json
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.exe
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.deps.json
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.runtimeconfig.json
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.runtimeconfig.dev.json
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\ref\RegistrationAndLogin.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.pdb
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.Views.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.Views.pdb
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Humanizer.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.AspNet.Identity.Owin.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.Owin.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.Owin.Security.Cookies.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Npgsql.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Owin.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.AssemblyInfoInputs.cache
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.AssemblyInfo.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.csproj.CoreCompileInputs.cache
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.MvcApplicationPartsAssemblyInfo.cache
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.RazorAssemblyInfo.cache
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.RazorAssemblyInfo.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\staticwebassets\RegistrationAndLogin.StaticWebAssets.Manifest.cache
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\staticwebassets\RegistrationAndLogin.StaticWebAssets.xml
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\scopedcss\bundle\RegistrationAndLogin.styles.css
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.TagHelpers.input.cache
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.TagHelpers.output.cache
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.RazorCoreGenerate.cache
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\Delete.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\Details.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\EditRegistration.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\Login.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\Registration.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.RazorTargetAssemblyInfo.cache
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.RazorTargetAssemblyInfo.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.Views.pdb
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.csproj.CopyComplete
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\ref\RegistrationAndLogin.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.pdb
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.genruntimeconfig.cache
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.csproj.AssemblyReference.cache
