@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container">
+    <div class="row">        
+        <div class="col-md-3">
+            <h2><strong>Login Page </strong></h2><br />
+            <form asp-action="login" method="post">
+                <div class="form-group">
+                    <label>User Name</label>
+                    <input type="text" class="form-control" id="userName" name="userName" placeholder="Enter user name">
+                </div>
+                <div class="form-group">
+                    <label>Password</label>
+                    <input type="password" class="form-control" name="password" id="password" placeholder="Password">
+                </div>
+                <div class="form-check">
+                    <button class="btn btn-info" type="reset">Reset</button>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+            </form>
+            <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=91188653272-a4sqka1p3bnvnkaslr73o269sib196n1.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Flocalhost%3A44386%2FHome%2FIndex&scope=openid%20profile%20email&state=CfDJ8Gb7VnPlLe1IvZuAjPYT23RvbD4BvUGcGl0fqrM9FQxtw0shXqZH8aLLBvGDhTeNhb4LqIHtxkCZeSAC_Xf5SSbF1kwwLLLHtfueuae-PJ8amdkwR1sDBZ7Ufr9xwGVfaWP3CS03KB2uGD1m8SeEmqbjq6grB0advk1lyKH0Lnmj4zCvlAw5BVhnyqUZBU5EYNQZfhlRKzuGo9dE3zJtA-5dIHfRoK9NjRvJWMj9xGCs0A_XXBgSKL-MGpPY6e3gG2YkeoMBPc4RksI3h_tVRPX6Q5r19QAvdda04IG8zyEwMueBYpYiiODoBHmUiaBAWw&flowName=GeneralOAuthFlow" class="btn btn-primary">Google</a>
+        </div>
+    </div>
+</div>
+
