@@ -1,0 +1,31 @@
+﻿
+@model RegistrationAndLogin.Models.LoginModel
+@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<html>
+<body>
+    <h1>Enable two-factor authentication</h1>
+   
+    <form method="post" asp-action="Enable">
+        <input type="hidden" asp-for="Email" />
+        @if (@ViewData["isenable"] is false)
+        {
+            <img src="@ViewBag.BarcodeImageUrl" style="visibility:hidden" /><br /> }
+        else
+        {
+            <img src="@ViewBag.BarcodeImageUrl" style="visibility:visible" /><br />
+        }
+
+        Setup code: @ViewBag.SetupCode<br />
+        Input security code: <input name="inputCode" /><br />
+        <input type="submit" />
+    </form>
+    <form method="post" asp-action="Disable">
+        <input type="hidden" asp-for="Email" />
+        Input security code: <input name="inputCode" /><br />
+        <input type="submit" />
+    </form>
+       
+</body>
+</html>

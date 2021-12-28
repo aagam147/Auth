@@ -1,15 +1,16 @@
 ﻿@*@model IEnumerable<RegistrationAndLogin.Models.RegistrationModel>*@
 @model PaginatedList<RegistrationAndLogin.Models.RegistrationModel>
 
-@{
-    ViewData["Title"] = "Index";
-}
 
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
 <h1>Index</h1>
 
 <p>
     <a asp-action="Registration">Registration</a>
 </p>
+
 <form asp-action="Index" method="get">
     <div class="form-actions no-color">
         <p>

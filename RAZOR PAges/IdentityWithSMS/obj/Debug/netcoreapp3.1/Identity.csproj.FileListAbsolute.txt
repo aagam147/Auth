@@ -1,0 +1,330 @@
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Identity.exe
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Identity.deps.json
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.json
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.dev.json
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Identity.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Identity.pdb
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Identity.Views.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Identity.Views.pdb
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Manifest.cache
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.xml
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cache
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.AssemblyInfoInputs.cache
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.AssemblyInfo.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.TagHelpers.input.cache
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.TagHelpers.output.cache
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.RazorCoreGenerate.cache
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cache
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.Views.pdb
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.csproj.CopyComplete
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.pdb
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.csprojAssemblyReference.cache
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Update.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Role\Update.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Claims\Index.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Claims\Create.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Account\GoogleResponse.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Email\ConfirmEmail.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Email\Error.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Yogesh\Desktop\Codes\1\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoginTwoStep.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\libman.json
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Identity.exe
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Identity.deps.json
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.json
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.dev.json
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Identity.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Identity.pdb
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Identity.Views.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Identity.Views.pdb
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.csproj.AssemblyReference.cache
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.AssemblyInfoInputs.cache
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.AssemblyInfo.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.csproj.CoreCompileInputs.cache
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cache
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cache
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Manifest.cache
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.xml
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\Identity.styles.css
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.TagHelpers.input.cache
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.TagHelpers.output.cache
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.RazorCoreGenerate.cache
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Account\GoogleResponse.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoginTwoStep.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Update.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Claims\Create.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Claims\Index.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Email\ConfirmEmail.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Email\Error.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Role\Update.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cache
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cs
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.Views.pdb
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.csproj.CopyComplete
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.pdb
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\IdentityWithSMS\obj\Debug\netcoreapp3.1\Identity.genruntimeconfig.cache

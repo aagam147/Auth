@@ -22,5 +22,11 @@ namespace RegistrationAndLogin.Models
         public string Password { get; set; }
         [Display(Name ="Remember Me")]
         public bool RememberMe { get; set; }
+        public bool TwoFactorEnabled { get; set; }
+
+        //public static implicit operator LoginModel(string v)
+        //{
+        //    //throw new NotImplementedException();
+        //}
     }
 }

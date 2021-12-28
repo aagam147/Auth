@@ -117,3 +117,16 @@ D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\ref\Registrati
 D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.pdb
 D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.genruntimeconfig.cache
 D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.csproj.AssemblyReference.cache
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\RegistrationAndLogin.MvcApplicationPartsAssemblyInfo.cs
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\RegistrationAndLogin.StaticWebAssets.xml
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\Google.Authenticator.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\bin\Debug\net5.0\QRCoder.dll
+D:\Krimal\ASP .NET CORE MVC\RegistrationAndLogin\obj\Debug\net5.0\Razor\Views\Test\Qrcode.cshtml.g.cs

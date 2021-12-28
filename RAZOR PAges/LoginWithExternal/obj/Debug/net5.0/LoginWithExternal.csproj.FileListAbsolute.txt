@@ -167,3 +167,4 @@ D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\LoginWithExternal\obj\Debug\net5.0\Login
 D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\LoginWithExternal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
 D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\LoginWithExternal\obj\Debug\net5.0\LoginWithExternal.csproj.AssemblyReference.cache
 D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\LoginWithExternal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\Krimal\ASP .NET CORE MVC\RAZOR PAges\LoginWithExternal\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs

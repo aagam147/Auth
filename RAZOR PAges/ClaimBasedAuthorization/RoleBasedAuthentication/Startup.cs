@@ -38,7 +38,7 @@ namespace RoleBasedAuthentication
             
             services.AddAuthorization(opt =>
             {
-                opt.AddPolicy("Example", policy => policy.RequireClaim(ClaimTypes.Name,"abc@gmail.com"));
+                opt.AddPolicy("Example", policy => policy.RequireClaim(ClaimTypes.Name));
             });
             //services.AddRazorPages();
         }

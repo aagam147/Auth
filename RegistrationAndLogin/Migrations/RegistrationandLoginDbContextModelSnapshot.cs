@@ -37,6 +37,9 @@ namespace RegistrationAndLogin.Migrations
                     b.Property<bool>("RememberMe")
                         .HasColumnType("boolean");
 
+                    b.Property<bool>("TwoFactorEnabled")
+                        .HasColumnType("boolean");
+
                     b.HasKey("Id");
 
                     b.ToTable("logins");

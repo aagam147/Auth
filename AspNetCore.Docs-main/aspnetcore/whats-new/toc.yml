@@ -1,0 +1,17 @@
+items:
+- name: What's new
+  href: index.yml
+  expanded: true
+  items:
+    - name: November 2021
+      href: 21-11.md
+    - name: October 2021
+      href: 21-10.md
+    - name: September 2021
+      href: 21-09.md
+    - name: August 2021
+      href: 21-08.md
+    - name: July 2021
+      href: 21-07.md
+    - name: June 2021
+      href: 21-06.md
